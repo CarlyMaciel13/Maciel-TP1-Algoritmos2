@@ -1,0 +1,7 @@
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\bin\Debug\Eje3-TP1-Algoritmos2.exe.config
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\bin\Debug\Eje3-TP1-Algoritmos2.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\bin\Debug\Eje3-TP1-Algoritmos2.pdb
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\obj\Debug\Eje3-TP1-Algoritmos2.csproj.AssemblyReference.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\obj\Debug\Eje3-TP1-Algoritmos2.csproj.CoreCompileInputs.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\obj\Debug\Eje3-TP1-Algoritmos2.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\TP1\Eje3-TP1-Algoritmos2\Eje3-TP1-Algoritmos2\obj\Debug\Eje3-TP1-Algoritmos2.pdb
